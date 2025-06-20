@@ -10,9 +10,7 @@ import os
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY",'key not found')
 GROQ_API_KEY = os.getenv("GROQ_API_KEY","key not found")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "key not found")
-print("OPENAI_API_KEY:", OPENAI_API_KEY)
-print("TAVILY_API_KEY:", TAVILY_API_KEY)
-print("GROQ_API_KEY:", GROQ_API_KEY)
+
 
 # %% [markdown]
 # Importing libraries
