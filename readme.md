@@ -29,16 +29,15 @@ This project is an **AI-powered chatbot interface** built with **FastAPI**, **La
 ## 📁 Project Structure
 
 ```bash
-├── main.py                 # FastAPI backend
+├── main.py                # FastAPI backend
 ├── ai_agent.py            # AI agent setup using LangGraph
 ├── frontend_app.py        # Streamlit UI interface
 ├── requirements.txt
 ├── .env                   # API keys (excluded via .gitignore)
 └── README.md
-
-
----
+```
 
 ## 🖼️ UI Screenshot
 
 ![Chatbot UI](assets/screenshot.png)
+
