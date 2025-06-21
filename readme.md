@@ -37,6 +37,7 @@ This project is an **AI-powered chatbot interface** built with **FastAPI**, **La
 └── README.md
 
 
+---
 
 ## 🖼️ UI Screenshot
 
